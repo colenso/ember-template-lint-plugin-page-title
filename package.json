@@ -1,6 +1,6 @@
 {
   "name": "ember-template-lint-plugin-page-title",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "private": false,
   "description": "A plugin for ember-template-lint to require that all route templates have a page title",
   "keywords": [
