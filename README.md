@@ -9,7 +9,7 @@ An ember-template-lint plugin that enforces every route template to have a page 
 ## Install
 
 ```sh
-yarn add -D prettier ember-template-lint-plugin-page-title
+yarn add -D ember-template-lint-plugin-page-title
 ```
 
 As one of the peerDependencies, `ember-template-lint` will have to be installed in your project.
